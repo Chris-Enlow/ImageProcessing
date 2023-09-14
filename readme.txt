@@ -1,1 +1,4 @@
-This folder should contain your source and header files. They will be built using a makefile from the directory ABOVE this one.
+#ImageProcessing
+Image Processing
+
+This is my Image Processing project from my Programming Fundamentals 2 class using C++ in Visual Studio.
